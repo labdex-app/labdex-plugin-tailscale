@@ -1,6 +1,6 @@
 # Tailscale / Headscale
 
-A [labdex](https://github.com/reykimedev/labdex) plugin. Devices of a tailnet into Discovery (their 100.x and fd7a:… addresses), so they can be assigned to hosts, e.g. in a network of your remote-access area; known devices report online or offline as host status.
+A [labdex](https://github.com/labdex-app/labdex) plugin. Devices of a tailnet into Discovery (their 100.x and fd7a:… addresses), so they can be assigned to hosts, e.g. in a network of your remote-access area; known devices report online or offline as host status.
 
 **Version** 1.0 · **Works with** labdex >=1.3,<2 · **Plugin id** `tailscale`
 
